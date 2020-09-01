@@ -9,4 +9,4 @@ elif unit == 'F' or unit == 'f':
   print(f'{temp}° in Celsius is equilvalent to {cel}° Celsius')
 
 else: 
-  print(f"invalid unit ({unit})")
+  print(f"invalid unit ({unit}).")
